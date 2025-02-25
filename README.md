@@ -51,3 +51,13 @@
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coyoteswain/coyoteswain/main/wave.svg" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F70000&random=false&width=435&lines=Welcome+to+my+GitHub!;I+love+coding+%F0%9F%92%BB;Let's+create+something+awesome!" alt="Typing SVG" />
+</h1>
+
+
