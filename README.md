@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Passionate Developer from ID</h3>
 
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/coyoteswain/coyoteswain/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
   <a href="https://github.com/coyoteswain">
