@@ -2,6 +2,9 @@
 <h3 align="center">🚀 A Passionate Developer from ID</h3>
 
 <p align="center">
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/coyoteswain/coyoteswain/main/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/coyoteswain/coyoteswain/main/github-contribution-grid-snake.svg#gh-light-mode-only)
+
   <a href="https://github.com/coyoteswain">
     <img src="https://komarev.com/ghpvc/?username=coyoteswain&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   </a>
